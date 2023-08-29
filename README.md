@@ -14,8 +14,4 @@ My personal portfolio website showcasing my skills, projects, and achievements. 
 
 A basic calculator application implemented using JavaScript. This project allowed me to explore front-end development with JavaScript, as I worked on building the logic for performing various arithmetic operations.
 
-## About Me
 
-I am a passionate aspiring developer who enjoys working on front-end projects. These projects from my CodeSoft internship have provided me with valuable experience and knowledge in web development. I look forward to continuing to learn and grow in the field.
-
-Feel free to reach out if you're interested in exploring these projects further!
