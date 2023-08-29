@@ -1,0 +1,241 @@
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 1rem;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.hero {
+    background-color: #f4f4f4;
+    padding: 2rem;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+.hero-description {
+    margin-bottom: 1rem; 
+}
+.btn {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.features {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+}
+
+.feature {
+    flex: 1;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin: 0 1rem;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+}
+
+.contact {
+    background-color: #fff;
+    padding: 2rem;
+    text-align: center;
+}
+
+.contact h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.contact p {
+    margin-bottom: 1.5rem;
+}
+
+.contact form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.contact input,
+.contact textarea {
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.contact button {
+    padding: 0.5rem 1rem;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.price {
+    background-color: #f9f9f9;
+    padding: 2rem;
+    text-align: center;
+}
+
+.price h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.price-option {
+    display: inline-block;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin: 0 1rem;
+    text-align: left;
+}
+
+.price-option h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.price-option p {
+    margin-bottom: 1rem;
+}
+
+.price {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.price-option {
+    flex: 1;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin: 0 1rem;
+    text-align: center;
+}
+
+.price-option h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.price-option p {
+    margin-bottom: 1rem;
+}
+
+.price {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.price-option {
+    flex: 1;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin: 0 1rem;
+    text-align: center;
+}
+
+.price-option h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.price-option p {
+    margin-bottom: 1rem;
+}
+
+
+.price {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.price-option {
+    flex: 1;
+    padding: 2rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin: 0 1rem;
+    text-align: center;
+}
+
+.contact {
+    background-color: #fff;
+    padding: 2rem;
+    text-align: center;
+}
+
+.contact form {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.contact input,
+.contact textarea {
+    width: 100%;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
