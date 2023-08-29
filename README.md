@@ -1,4 +1,4 @@
-# My CodeSoft Internship Projects
+# My CodeSoft Internship 
 
 I have successfully completed my internship at CodeSoft, where I worked on the following projects using HTML, CSS, and JavaScript.
 
